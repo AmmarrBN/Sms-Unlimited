@@ -35,7 +35,6 @@ multidict==6.0.5
 Naked==0.1.32
 ordered-set==4.1.0
 phonenumbers==8.13.32
-psutil==5.9.8
 pyarmor==8.4.7
 pyarmor.cli.core==5.4.3
 pyarmor.cli.core.android==5.4.3
