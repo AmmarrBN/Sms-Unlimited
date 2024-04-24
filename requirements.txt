@@ -33,7 +33,6 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 multidict==6.0.5
 Naked==0.1.32
-Nuitka==2.1.6
 ordered-set==4.1.0
 phonenumbers==8.13.32
 psutil==5.9.8
